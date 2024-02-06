@@ -72,7 +72,7 @@ We look forward to serving you soon!"
 
         <!--Home-->
 
-        <section class="home" id="home">
+        <section class="home" id="Home">
             <div class="content">
                 <span>Welcome</span>
                 <h3>we make <br>hair beautiful<br>& unique</h3>
@@ -150,12 +150,75 @@ We look forward to serving you soon!"
         <!--about us-->
 
         <!--Services-->
-        <section class="services" id="services">
+        <section class="services" id="Services">
             <h1 class="heading">Premium Services</h1>
+
+            <div class="box-container">
+
+            <div class="box">
+                <img src="images/hair-styling service.PNG" alt="" width="200" height="150">
+                <div class="content">
+                    <h3>Hair Styling</h3>
+
+
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="images/nails 3.jpg" alt="" width="200" height="150">
+                <div class="content">
+                    <h3>Manicure & Padicure</h3>
+
+
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="images/make-up 2.jpg" alt="" width="200" height="150">
+                <div class="content">
+                    <h3>Make-up</h3>
+
+
+                </div>
+            </div>
+
+        </div>
 
         </section>
 
         <!--Services-->
+
+        <!--Syles-->
+
+        <section class="Styles" id="Styles">
+
+            <h1 class="heading">Choose your styles</h1>
+
+            <div class="box-container">
+                
+                <div class="box">
+                    <div class="image">
+                       <img src="images/twist braids.jpg" alt=""> 
+                    </div>
+                    <div>
+                        
+                    </div>
+
+                </div>
+
+
+            </div>
+
+
+
+        </section>
+
+
+
+
+
+        <!--Styles-->
+
    
     </body>
 </html>
